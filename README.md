@@ -1,2 +1,3 @@
-# matchup-downloads
-MatchUp app downloads (Android APK) and videos
+# MatchUp downloads
+
+Android app: see Releases → MatchUp.apk. How-to video: how-to.mp4.
